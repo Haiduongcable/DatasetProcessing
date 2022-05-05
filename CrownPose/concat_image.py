@@ -9,7 +9,7 @@ path_folder_hrnet = "visualize_hrnet"
 path_folder_concat_image = "prepare_retina_hrnet"
 
 font = cv2.FONT_HERSHEY_SIMPLEX
-  
+  ss
 # org
 org = (50, 50)
   
